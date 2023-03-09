@@ -10,10 +10,10 @@ The following project demonstrates the refactoring of a Horiseon company website
 Keegan Omel
 
 ## Contributors
-Xandromus
-Austin Grech
-Renan Miranda
-Robert Kurle
+Xandromus,
+Austin Grech,
+Renan Miranda,
+Robert Kurle,
 
 ## Live Link
 
